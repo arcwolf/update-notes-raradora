@@ -1,4 +1,4 @@
-# Updates notes for raradora.com
+# Updates notes
 
 ## 2023.07.31 hotfix
 
