@@ -4,6 +4,7 @@
 
 * avada theme updates
 * 사이트 레이아웃 re-design
+* 테마편집기 기능 활성화 (wordpress 코드 편집용)
 
 ## 2023.07.31 hotfix
 
