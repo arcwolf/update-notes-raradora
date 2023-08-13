@@ -1,5 +1,10 @@
 # Updates notes
 
+## 2023.08.13
+
+* avada theme updates
+* 사이트 레이아웃 re-design
+
 ## 2023.07.31 hotfix
 
 * 접속불가 상태 원인 조사
